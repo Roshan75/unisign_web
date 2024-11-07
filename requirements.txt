@@ -1,0 +1,6 @@
+Flask==2.1.1            # Flask web framework
+Werkzeug==2.1.1         # Utilities for Flask request handling
+Pillow==9.1.0           # Image handling (PIL)
+tensorflow==2.10.0      # TensorFlow with TFLite interpreter
+numpy==1.23.0           # Array handling and numerical operations
+opencv-python-headless==4.6.0.66  # OpenCV without GUI support, for server environments
