@@ -147,6 +147,9 @@ def run_inference_tflite(image_path, model_path, input_size=(192, 192)):
 
     return results
 
+
+
+
 # Usage example
 # model_path = '../models/unisign_square_feature192_05122023.tflite'  # Path to your TFLite model
 # image_path = '../data/1.jpg'  # Path to the image you want to test
